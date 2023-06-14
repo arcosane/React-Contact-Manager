@@ -1,0 +1,35 @@
+/* AddContact.css */
+
+.ui.main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .ui.main h2 {
+    margin-bottom: 20px;
+  }
+  
+  .ui.form .field {
+    margin-bottom: 10px;
+  }
+  
+  .ui.form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .ui.form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  .ui.button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
